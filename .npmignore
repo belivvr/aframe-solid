@@ -1,0 +1,16 @@
+/*
+!/components
+!/core
+!/README
+!/README.md
+!/.gitignore
+!/.npmignore
+!/LICENSE
+!/tsconfig.json
+!/tsconfig.types.json
+!/types.d.ts
+!/package.json
+!/lib
+!/types
+!/es
+!/dist
